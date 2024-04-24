@@ -1,0 +1,1 @@
+This website will contain a main index page with links to a few recipies. The skills I will demonstrate in this project will be using code to create paragraphs, creating a heading, creating links, adding photos, and more.
